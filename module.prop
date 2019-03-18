@@ -1,0 +1,7 @@
+id=p3voltetw
+name=Pixel3 VoLTE/VoWifi Enabler for TW
+version=v0.1
+versionCode=1
+author=Proton Chang
+description=Adds settings to mbn_sw.txt to enable both VoLTE and VoWifi support for TW carriers
+minMagisk=17000
