@@ -1,10 +1,11 @@
-# Pixel3 VoLTE/VoWifi Enabler for TW
+# Pixel2 VoLTE/VoWifi Enabler for TW
 
-This Module will make Pixel 3/XL Support VoLTE/VoWifi using TW Carriers
+This Module will make Pixel 2/XL Support VoLTE/VoWifi using TW Carriers
 
 # What does this module change
 
 This module adds TW Carriers mbn files path into mbn_sw.txt
+Will also add necessary mbn files into system path
 
 # Requirements
 
@@ -20,5 +21,4 @@ None
 
 # Changelog
 
-* 2019-05-24 v0.2 (Fix some issue and update to latest template)
-* 2019-03-18 v0.1 (Initial Commit)
+* 2019-09-26 v0.0.1 (Initial Commit)
