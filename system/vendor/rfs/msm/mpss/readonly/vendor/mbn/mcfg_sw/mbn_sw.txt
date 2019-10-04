@@ -31,6 +31,9 @@ mcfg_sw/generic/SEA/TM/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/SEA/ChunghwaTel/Commercial/TW/mcfg_sw.mbn
 mcfg_sw/generic/SEA/TStar/Commercial/TW/mcfg_sw.mbn
 mcfg_sw/generic/SEA/APT/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/SEA/3HK/Commercial/HK/mcfg_sw.mbn
+mcfg_sw/generic/SEA/SmarTone/Commercial/HK/mcfg_sw.mbn
+mcfg_sw/generic/SEA/HKT/Commercial/HK/mcfg_sw.mbn
 mcfg_sw/generic/common/WildCard/Wildcard/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/TestSIM/TestSIM/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Videotron/VoLTE/mcfg_sw.mbn
