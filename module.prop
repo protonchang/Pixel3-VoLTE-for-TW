@@ -1,6 +1,6 @@
 id=p3voltetw
 name=Pixel 3/3XL VoLTE enabler(TW)
-version=v0.2.1
-versionCode=3
+version=v0.2.1-a2
+versionCode=4
 author=Proton Chang
 description=This module add VoLTE/VoWifi support for certain Taiwanese carriers
