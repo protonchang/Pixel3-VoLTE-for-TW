@@ -1,3 +1,7 @@
+# This project has beed archived and deprecated.
+
+Temporarily leaving Pixel and Android family, and say hello to the iPhone 12 mini :)
+
 # Pixel3 VoLTE/VoWifi Enabler for TW
 
 This Module will make Pixel 3/XL Support VoLTE/VoWifi using TW Carriers
@@ -20,6 +24,7 @@ None
 
 # Changelog
 
+* 2021-03-04 Project Archived
 * 2019-10-04 v0.2.1-a1 (Add experimental support for TStar)
 * 2019-05-24 v0.2 (Fix some issue and update to latest template)
 * 2019-03-18 v0.1 (Initial Commit)
